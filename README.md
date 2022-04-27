@@ -1,10 +1,11 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
-
+ 
+[![Generate Stats Images](https://github.com/https123456789/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/https123456789/github-stats/actions/workflows/main.yml)
+   
 ![](https://github.com/https123456789/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/https123456789/github-stats/blob/master/generated/languages.svg)
-
 </a>
 
 Generate visualizations of GitHub user and repository statistics using GitHub
